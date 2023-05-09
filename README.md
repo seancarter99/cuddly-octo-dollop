@@ -15,3 +15,5 @@ Switches to the specified branch
 Merges the latests commits from the branch-to-merge onto the branch you're currently on
 
 ## Sean
+
+## Padma
